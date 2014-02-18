@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../../../../../css/rss/feedRss1.xsl" media="screen" type="text/xsl"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">  
+  <channel rdf:about="http://www3.asahi.com/"> 
+    <title>朝日新聞デジタル</title>  
+    <link>http://www.asahi.com/</link>  
+    <description>朝日新聞デジタル</description>  
+    <dc:language>ja</dc:language>  
+    <dc:rights>Copyright 2012 Asahi Shimbun. All rights reserved. No reproduction or republication without written permission.</dc:rights>  
+    <dc:date>2013-04-30T18:40:59+09:00</dc:date>  
+    <dc:publisher>朝日新聞社</dc:publisher>  
+    <dc:creator>朝日新聞社</dc:creator>  
+    <syn:updatePeriod>hourly</syn:updatePeriod>  
+    <syn:updateFrequency>1</syn:updateFrequency>  
+    <syn:updateBase>2013-04-30T18:40:59+09:00</syn:updateBase>  
+    <items> 
+      <rdf:Seq> 
+        <rdf:li rdf:resource="http://www.asahi.com/national/update/0430/TKY201304300261.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/national/update/0430/SEB201304300012.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/national/update/0428/OSK201304280067.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/national/update/0430/OSK201304300021.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/national/update/0430/OSK201304300028.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/national/update/0430/TKY201304290290.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/national/update/0430/OSK201304300020.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/national/update/0430/TKY201304300126.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/national/update/0430/TKY201304290291.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/national/update/0430/OSK201304300018.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://japan.cnet.com/news/business/35031507/?tag=as.rss"/>  
+        <rdf:li rdf:resource="https://www.salesforce.com/jp/form/campaigns/mobile-demo.jsp?d=70130000000t3mH&amp;ban=BAN_JP_Asahi_Q114"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/sports/update/0430/TKY201304300271.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/sports/update/0430/TKY201304300254.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/sports/update/0430/TKY201304300182.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/sports/update/0430/JJT201304300002.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/sports/update/0430/JJT201304300001.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://japan.zdnet.com/security/analysis/35031421/?tag=as.rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/business/update/0430/TKY201304300287.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/business/update/0430/TKY201304300269.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/business/update/0429/TKY201304290243.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/business/update/0430/SEB201304300010.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/business/update/0430/TKY201304300203.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://japan.cnet.com/news/service/35031502/?tag=as.rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/suumo/"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/politics/update/0430/TKY201304300264.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/politics/update/0430/TKY201304300120.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/politics/update/0430/TKY201304300081.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/politics/update/0430/TKY201304300078.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/politics/update/0430/TKY201304300011.html?ref=rss"/>  
+        <rdf:li rdf:resource="?tag=as.rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/ad/hajimeyo/?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/international/update/0430/TKY201304300260.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/international/update/0430/TKY201304300242.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/international/update/0429/TKY201304290159.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/international/update/0430/TKY201304300042.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/international/update/0430/TKY201304300024.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.tetsudo.com/news/814/%E5%AF%8C%E5%B1%B1%E5%B8%82%E9%9B%BB%E3%81%8CJR%E9%A7%85%E9%AB%98%E6%9E%B6%E4%B8%8B%E3%81%BE%E3%81%A7%E5%BB%B6%E4%BC%B8%E3%80%81%E5%9B%BD%E4%BA%A4%E7%9C%81%E8%AA%8D%E5%AE%9A/?tag=as.rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/ad/hajimeyo/usecase.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/culture/update/0430/TKY201304300008.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/culture/update/0429/TKY201304280278.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/culture/update/0429/OSK201304290007.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/tech_science/update/0430/OSK201304300003.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/tech_science/update/0430/TKY201304300014.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/tech_science/update/0429/TKY201304290158.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/obituaries/update/0430/TKY201304300007.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/obituaries/update/0429/TKY201304290027.html?ref=rss"/>  
+        <rdf:li rdf:resource="http://www.asahi.com/obituaries/update/0428/SEB201304280020.html?ref=rss"/> 
+      </rdf:Seq> 
+    </items>  
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" href="http://rss.asahi.com/rss/asahi/newsheadlines.rdf" type="application/rss+xml"/>
+  </channel>  
+  <item rdf:about="http://www.asahi.com/national/update/0430/TKY201304300261.html?ref=rss"> 
+    <title>桂宮さまが退院　３月末に発熱で入院</title>  
+    <link>http://www.asahi.com/national/update/0430/TKY201304300261.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>社会</dc:subject>  
+    <dc:date>2013-04-30T17:34:36+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/national/update/0430/SEB201304300012.html?ref=rss"> 
+    <title>「失神ゲーム」強要、首にたばこ　容疑の高２逮捕　福岡</title>  
+    <link>http://www.asahi.com/national/update/0430/SEB201304300012.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>社会</dc:subject>  
+    <dc:date>2013-04-30T17:07:18+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/national/update/0428/OSK201304280067.html?ref=rss"> 
+    <title>目に青葉、と…カツオ？　一本釣りの町、のぼりでＰＲ</title>  
+    <link>http://www.asahi.com/national/update/0428/OSK201304280067.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>社会</dc:subject>  
+    <dc:date>2013-04-30T16:52:12+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://rss.rssad.jp/rss/ad/sV2ZfrRWcn9y/J3_aBXLuYkSE?type=2&amp;ent=23f10a998ac7cce593d1f0e020d667ec">
+    <title><![CDATA[PR: 東京に、家を持とう。北区・板橋区新築一戸建て最新情報]]></title>
+    <link>http://rss.rssad.jp/rss/ad/sV2ZfrRWcn9y/J3_aBXLuYkSE?type=2&amp;ent=23f10a998ac7cce593d1f0e020d667ec</link>
+    <description><![CDATA[<table cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="center"><a href="http://rss.rssad.jp/rss/ad/sV2ZfrRWcn9y/J3_aBXLuYkSE?type=2" target="_blank"><img alt="" style="border: 0;" border="0" src="http://rss.rssad.jp/rss/img/sV2ZfrRWcn9y/J3_aBXLuYkSE?type=2&ent=23f10a998ac7cce593d1f0e020d667ec"/></a></td></tr><tr><td align="left" valign="top" > 人には教えたくない上質物件をオープンハウスがご紹介させていただきます </td></tr></tbody></table><div style="font-size:10px;"><span style="padding-top:5px;"><br style="display:none"/><a href="http://www.rssad.jp/trendmatch/trendmatch.html">Ads by Trend Match</a></span><br/></div>]]></description>
+    <dc:date>2013-04-30T16:52:12+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/national/update/0430/OSK201304300021.html?ref=rss"> 
+    <title>ボウリング、個室化で人気復活？　子連れやデートに好評</title>  
+    <link>http://www.asahi.com/national/update/0430/OSK201304300021.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>社会</dc:subject>  
+    <dc:date>2013-04-30T16:51:51+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/national/update/0430/OSK201304300028.html?ref=rss"> 
+    <title>三宮駅を神戸三宮駅に　阪急・阪神、神戸の中心アピール</title>  
+    <link>http://www.asahi.com/national/update/0430/OSK201304300028.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>社会</dc:subject>  
+    <dc:date>2013-04-30T16:29:57+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/national/update/0430/TKY201304290290.html?ref=rss"> 
+    <title>防潮堤の復旧工事、着手３割　被災３県、用地取得が難航</title>  
+    <link>http://www.asahi.com/national/update/0430/TKY201304290290.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>社会</dc:subject>  
+    <dc:date>2013-04-30T15:58:35+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/national/update/0430/OSK201304300020.html?ref=rss"> 
+    <title>コースターから男児転落　福井の遊園地</title>  
+    <link>http://www.asahi.com/national/update/0430/OSK201304300020.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>社会</dc:subject>  
+    <dc:date>2013-04-30T14:00:06+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://rss.rssad.jp/rss/ad/sV2ZfrRWcn9y/4QxD6lkPS39n?type=2&amp;ent=0927c97c8589d7e7e97f3b6feb5cad93">
+    <title><![CDATA[PR: シーバスリーガルとともに探るビジネス成功へのヒント]]></title>
+    <link>http://rss.rssad.jp/rss/ad/sV2ZfrRWcn9y/4QxD6lkPS39n?type=2&amp;ent=0927c97c8589d7e7e97f3b6feb5cad93</link>
+    <description><![CDATA[<table cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="center"><a href="http://rss.rssad.jp/rss/ad/sV2ZfrRWcn9y/4QxD6lkPS39n?type=2" target="_blank"><img alt="" style="border: 0;" border="0" src="http://rss.rssad.jp/rss/img/sV2ZfrRWcn9y/4QxD6lkPS39n?type=3&ent=0927c97c8589d7e7e97f3b6feb5cad93"/></a></td></tr><tr><td align="left" valign="top" > エイベックス松浦勝人社長によるビジネスセミナーに抽選で35組70名様をご招待！ </td></tr></tbody></table><div style="font-size:10px;"><span style="padding-top:5px;"><br style="display:none"/><a href="http://www.rssad.jp/trendmatch/trendmatch.html">Ads by Trend Match</a></span><br/></div>]]></description>
+    <dc:date>2013-04-30T14:00:06+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/national/update/0430/TKY201304300126.html?ref=rss"> 
+    <title>横浜でカラス・ハト計１９羽の死骸　鳥インフル検査も</title>  
+    <link>http://www.asahi.com/national/update/0430/TKY201304300126.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>社会</dc:subject>  
+    <dc:date>2013-04-30T13:48:53+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/national/update/0430/TKY201304290291.html?ref=rss"> 
+    <title>リカちゃんキャッスル新たに　福島・小野、開業２０周年</title>  
+    <link>http://www.asahi.com/national/update/0430/TKY201304290291.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>社会</dc:subject>  
+    <dc:date>2013-04-30T13:36:54+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/national/update/0430/OSK201304300018.html?ref=rss"> 
+    <title>光母子殺害弁護団の請求棄却　橋下氏ＴＶ発言　広島地裁</title>  
+    <link>http://www.asahi.com/national/update/0430/OSK201304300018.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>社会</dc:subject>  
+    <dc:date>2013-04-30T13:21:04+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://japan.cnet.com/news/business/35031507/?tag=as.rss"> 
+    <title>＜CNET Japan＞KDDI田中社長が通信障害を再び謝罪</title>  
+    <link>http://japan.cnet.com/news/business/35031507/?tag=as.rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>デジタル</dc:subject>  
+    <dc:date/> 
+  </item>  
+  <item rdf:about="https://www.salesforce.com/jp/form/campaigns/mobile-demo.jsp?d=70130000000t3mH&amp;ban=BAN_JP_Asahi_Q114"> 
+    <title>【PR】モバイル時代のいまだからこそできる、営業効率向上の方法とは？</title>  
+    <link>https://www.salesforce.com/jp/form/campaigns/mobile-demo.jsp?d=70130000000t3mH&amp;ban=BAN_JP_Asahi_Q114</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>その他</dc:subject>  
+    <dc:date>2013-04-18T10:32:28+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/sports/update/0430/TKY201304300271.html?ref=rss"> 
+    <title>ヤクルトの連勝、６で止まる〈３０日のセ・リーグ〉</title>  
+    <link>http://www.asahi.com/sports/update/0430/TKY201304300271.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>スポーツ</dc:subject>  
+    <dc:date>2013-04-30T17:59:34+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/sports/update/0430/TKY201304300254.html?ref=rss"> 
+    <title>明大、連勝で勝ち点２　東京六大学野球</title>  
+    <link>http://www.asahi.com/sports/update/0430/TKY201304300254.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>スポーツ</dc:subject>  
+    <dc:date>2013-04-30T17:10:58+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/sports/update/0430/TKY201304300182.html?ref=rss"> 
+    <title>ハーバードの選手、ＮＦＬから指名　入団なら史上２人目</title>  
+    <link>http://www.asahi.com/sports/update/0430/TKY201304300182.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>スポーツ</dc:subject>  
+    <dc:date>2013-04-30T15:57:22+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/sports/update/0430/JJT201304300002.html?ref=rss"> 
+    <title>名門レーカーズ、早くも敗退　ＮＢＡプレーオフ</title>  
+    <link>http://www.asahi.com/sports/update/0430/JJT201304300002.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>スポーツ</dc:subject>  
+    <dc:date>2013-04-30T14:40:48+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/sports/update/0430/JJT201304300001.html?ref=rss"> 
+    <title>松坂、左脇腹痛める　監督「様子を見ている」</title>  
+    <link>http://www.asahi.com/sports/update/0430/JJT201304300001.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>スポーツ</dc:subject>  
+    <dc:date>2013-04-30T14:36:34+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://japan.zdnet.com/security/analysis/35031421/?tag=as.rss"> 
+    <title>＜ZDNet Japan＞クラウドのセキュリティを担保する監査制度を構築--国際標準規格を先取り</title>  
+    <link>http://japan.zdnet.com/security/analysis/35031421/?tag=as.rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>デジタル</dc:subject>  
+    <dc:date/> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/business/update/0430/TKY201304300287.html?ref=rss"> 
+    <title>ＪＲ３社とも増収増益　観光客増で鉄道好調　３月期決算</title>  
+    <link>http://www.asahi.com/business/update/0430/TKY201304300287.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>ビジネス</dc:subject>  
+    <dc:date>2013-04-30T18:27:03+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/business/update/0430/TKY201304300269.html?ref=rss"> 
+    <title>住宅着工、７カ月連続で前年上回る　３月は７．３％増</title>  
+    <link>http://www.asahi.com/business/update/0430/TKY201304300269.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>ビジネス</dc:subject>  
+    <dc:date>2013-04-30T18:01:27+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/business/update/0429/TKY201304290243.html?ref=rss"> 
+    <title>お弁当、ほぼ１００％国産素材　ローソンが新シリーズ</title>  
+    <link>http://www.asahi.com/business/update/0429/TKY201304290243.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>ビジネス</dc:subject>  
+    <dc:date>2013-04-30T17:22:36+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/business/update/0430/SEB201304300010.html?ref=rss"> 
+    <title>九電、５月１日から値上げ　家庭向け平均６．２３％</title>  
+    <link>http://www.asahi.com/business/update/0430/SEB201304300010.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>ビジネス</dc:subject>  
+    <dc:date>2013-04-30T15:46:04+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/business/update/0430/TKY201304300203.html?ref=rss"> 
+    <title>日経平均、２営業日連続値下がり　一時１００円超下げる</title>  
+    <link>http://www.asahi.com/business/update/0430/TKY201304300203.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>ビジネス</dc:subject>  
+    <dc:date>2013-04-30T15:19:38+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://japan.cnet.com/news/service/35031502/?tag=as.rss"> 
+    <title>＜CNET Japan＞DeNA、無料通話アプリ「comm」のPC版をリリース</title>  
+    <link>http://japan.cnet.com/news/service/35031502/?tag=as.rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>デジタル</dc:subject>  
+    <dc:date/> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/suumo/"> 
+    <title>［PR］：新築・賃貸マンションの情報満載！SUUMO[無料]</title>  
+    <link>http://www.asahi.com/suumo/</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>その他</dc:subject>  
+    <dc:date>2012-12-21T10:32:28+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/politics/update/0430/TKY201304300264.html?ref=rss"> 
+    <title>「９６条改正派は限定的」　民主参院幹事長、反対の姿勢</title>  
+    <link>http://www.asahi.com/politics/update/0430/TKY201304300264.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>政治</dc:subject>  
+    <dc:date>2013-04-30T17:50:51+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/politics/update/0430/TKY201304300120.html?ref=rss"> 
+    <title>稲田行革相の靖国参拝　「私人の立場と思う」　官房長官</title>  
+    <link>http://www.asahi.com/politics/update/0430/TKY201304300120.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>政治</dc:subject>  
+    <dc:date>2013-04-30T12:54:03+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://rss.rssad.jp/rss/ad/sV2ZfrRWcn9y/4QxD6lkPS39n?type=2&amp;ent=b533818ffdc125a19e94086276400319">
+    <title><![CDATA[PR: シーバスリーガルとともに探るビジネス成功へのヒント]]></title>
+    <link>http://rss.rssad.jp/rss/ad/sV2ZfrRWcn9y/4QxD6lkPS39n?type=2&amp;ent=b533818ffdc125a19e94086276400319</link>
+    <description><![CDATA[<table cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="center"><a href="http://rss.rssad.jp/rss/ad/sV2ZfrRWcn9y/4QxD6lkPS39n?type=2" target="_blank"><img alt="" style="border: 0;" border="0" src="http://rss.rssad.jp/rss/img/sV2ZfrRWcn9y/4QxD6lkPS39n?type=3&ent=b533818ffdc125a19e94086276400319"/></a></td></tr><tr><td align="left" valign="top" > エイベックス松浦勝人社長によるビジネスセミナーに抽選で35組70名様をご招待！ </td></tr></tbody></table><div style="font-size:10px;"><span style="padding-top:5px;"><br style="display:none"/><a href="http://www.rssad.jp/trendmatch/trendmatch.html">Ads by Trend Match</a></span><br/></div>]]></description>
+    <dc:date>2013-04-30T12:54:03+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/politics/update/0430/TKY201304300081.html?ref=rss"> 
+    <title>日米防衛相の共同会見要旨</title>  
+    <link>http://www.asahi.com/politics/update/0430/TKY201304300081.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>政治</dc:subject>  
+    <dc:date>2013-04-30T11:55:14+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/politics/update/0430/TKY201304300078.html?ref=rss"> 
+    <title>米国防長官「尖閣、一方的行動に反対」　日米防衛相会談</title>  
+    <link>http://www.asahi.com/politics/update/0430/TKY201304300078.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>政治</dc:subject>  
+    <dc:date>2013-04-30T11:42:40+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/politics/update/0430/TKY201304300011.html?ref=rss"> 
+    <title>岸田外相、中南米と経済協力強化提唱　ＴＰＰなど通じて</title>  
+    <link>http://www.asahi.com/politics/update/0430/TKY201304300011.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>政治</dc:subject>  
+    <dc:date>2013-04-30T10:10:39+09:00</dc:date> 
+  </item>  
+  <item rdf:about="?tag=as.rss"> 
+    <title/>  
+    <link>?tag=as.rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>デジタル</dc:subject>  
+    <dc:date/> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/ad/hajimeyo/?ref=rss"> 
+    <title>【広告特集】：母で芸人　二足のわらじはもう常識</title>  
+    <link>http://www.asahi.com/ad/hajimeyo/?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>その他</dc:subject>  
+    <dc:date>2013-01-21T10:32:28+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/international/update/0430/TKY201304300260.html?ref=rss"> 
+    <title>主権回復式典、韓国政府が批判　「非常に理解しがたい」</title>  
+    <link>http://www.asahi.com/international/update/0430/TKY201304300260.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>国際</dc:subject>  
+    <dc:date>2013-04-30T17:31:19+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/international/update/0430/TKY201304300242.html?ref=rss"> 
+    <title>ＮＢＡ現役選手、同性愛を公表　米４大プロスポーツ初</title>  
+    <link>http://www.asahi.com/international/update/0430/TKY201304300242.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>国際</dc:subject>  
+    <dc:date>2013-04-30T17:11:52+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/international/update/0429/TKY201304290159.html?ref=rss"> 
+    <title>ＣＯＰ１９作業部会開幕　「ポスト京都」へ議論本格化</title>  
+    <link>http://www.asahi.com/international/update/0429/TKY201304290159.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>国際</dc:subject>  
+    <dc:date>2013-04-30T14:29:54+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/international/update/0430/TKY201304300042.html?ref=rss"> 
+    <title>マイケルの死「ツアー主催者に過失」　親族が賠償訴訟</title>  
+    <link>http://www.asahi.com/international/update/0430/TKY201304300042.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>国際</dc:subject>  
+    <dc:date>2013-04-30T11:01:40+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/international/update/0430/TKY201304300024.html?ref=rss"> 
+    <title>米運輸長官にフォックス氏指名　新閣僚で初のアフリカ系</title>  
+    <link>http://www.asahi.com/international/update/0430/TKY201304300024.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>国際</dc:subject>  
+    <dc:date>2013-04-30T10:34:46+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.tetsudo.com/news/814/%E5%AF%8C%E5%B1%B1%E5%B8%82%E9%9B%BB%E3%81%8CJR%E9%A7%85%E9%AB%98%E6%9E%B6%E4%B8%8B%E3%81%BE%E3%81%A7%E5%BB%B6%E4%BC%B8%E3%80%81%E5%9B%BD%E4%BA%A4%E7%9C%81%E8%AA%8D%E5%AE%9A/?tag=as.rss"> 
+    <title>＜鉄道コム＞富山市電がJR駅高架下まで延伸、国交省認定</title>  
+    <link>http://www.tetsudo.com/news/814/%E5%AF%8C%E5%B1%B1%E5%B8%82%E9%9B%BB%E3%81%8CJR%E9%A7%85%E9%AB%98%E6%9E%B6%E4%B8%8B%E3%81%BE%E3%81%A7%E5%BB%B6%E4%BC%B8%E3%80%81%E5%9B%BD%E4%BA%A4%E7%9C%81%E8%AA%8D%E5%AE%9A/?tag=as.rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>デジタル</dc:subject>  
+    <dc:date/> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/ad/hajimeyo/usecase.html?ref=rss"> 
+    <title>【広告特集】：よしもと芸人が８をやわらか～く解説！</title>  
+    <link>http://www.asahi.com/ad/hajimeyo/usecase.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>その他</dc:subject>  
+    <dc:date>2013-01-21T10:32:28+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/culture/update/0430/TKY201304300008.html?ref=rss"> 
+    <title>ポール・モーリアが歌っていた　貴重な歌唱音源見つかる</title>  
+    <link>http://www.asahi.com/culture/update/0430/TKY201304300008.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>文化芸能</dc:subject>  
+    <dc:date>2013-04-30T09:58:32+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/culture/update/0429/TKY201304280278.html?ref=rss"> 
+    <title>「西の魔女」の家を公開　山梨・北杜、ＧＷ期間中</title>  
+    <link>http://www.asahi.com/culture/update/0429/TKY201304280278.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>文化芸能</dc:subject>  
+    <dc:date>2013-04-29T21:09:04+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/culture/update/0429/OSK201304290007.html?ref=rss"> 
+    <title>牧伸二さん、最後は「やんなっちゃった節」</title>  
+    <link>http://www.asahi.com/culture/update/0429/OSK201304290007.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>文化芸能</dc:subject>  
+    <dc:date>2013-04-29T19:49:27+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/tech_science/update/0430/OSK201304300003.html?ref=rss"> 
+    <title>禁煙太りでも健康効果大　心血管疾患のリスクが半減に</title>  
+    <link>http://www.asahi.com/tech_science/update/0430/OSK201304300003.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>サイエンス</dc:subject>  
+    <dc:date>2013-04-30T11:03:51+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/tech_science/update/0430/TKY201304300014.html?ref=rss"> 
+    <title>１１月末に太陽最接近のアイソン彗星　ＮＡＳＡとらえる</title>  
+    <link>http://www.asahi.com/tech_science/update/0430/TKY201304300014.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>サイエンス</dc:subject>  
+    <dc:date>2013-04-30T10:21:15+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://rss.rssad.jp/rss/ad/sV2ZfrRWcn9y/zYydNjTaEC1t?type=2&amp;ent=9ab2f8f5da1e9d6cd7a3ad959a80bbae">
+    <title><![CDATA[PR: 川崎・横浜年収700万円世帯の皆様に一戸建て情報を]]></title>
+    <link>http://rss.rssad.jp/rss/ad/sV2ZfrRWcn9y/zYydNjTaEC1t?type=2&amp;ent=9ab2f8f5da1e9d6cd7a3ad959a80bbae</link>
+    <description><![CDATA[<table cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="center"><a href="http://rss.rssad.jp/rss/ad/sV2ZfrRWcn9y/zYydNjTaEC1t?type=2" target="_blank"><img alt="" style="border: 0;" border="0" src="http://bnr.rssad.jp/rss/img/sV2ZfrRWcn9y/zYydNjTaEC1t?type=3&ent=9ab2f8f5da1e9d6cd7a3ad959a80bbae"/></a></td></tr><tr><td align="left" valign="top" > 人には教えたくない極秘物件をオープンハウスがご紹介させていただきます </td></tr></tbody></table><div style="font-size:10px;"><span style="padding-top:5px;"><br style="display:none"/><a href="http://www.rssad.jp/trendmatch/trendmatch.html">Ads by Trend Match</a></span><br/></div>]]></description>
+    <dc:date>2013-04-30T10:21:15+09:00</dc:date>
+  </item>
+  <item rdf:about="http://www.asahi.com/tech_science/update/0429/TKY201304290158.html?ref=rss"> 
+    <title>消えるアスペルガー症候群　米診断手引１９年ぶり改訂で</title>  
+    <link>http://www.asahi.com/tech_science/update/0429/TKY201304290158.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>サイエンス</dc:subject>  
+    <dc:date>2013-04-30T06:55:00+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/obituaries/update/0430/TKY201304300007.html?ref=rss"> 
+    <title>元阪急のアニマル投手死去　派手なパフォーマンスで人気</title>  
+    <link>http://www.asahi.com/obituaries/update/0430/TKY201304300007.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>おくやみ</dc:subject>  
+    <dc:date>2013-04-30T12:53:18+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/obituaries/update/0429/TKY201304290027.html?ref=rss"> 
+    <title>ウクレレ漫談の牧伸二さん死亡　川に飛び込み、自殺か</title>  
+    <link>http://www.asahi.com/obituaries/update/0429/TKY201304290027.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>おくやみ</dc:subject>  
+    <dc:date>2013-04-29T20:19:05+09:00</dc:date> 
+  </item>  
+  <item rdf:about="http://www.asahi.com/obituaries/update/0428/SEB201304280020.html?ref=rss"> 
+    <title>「１０年日記」発案　石原出版会長の石原貫一郎さん死去</title>  
+    <link>http://www.asahi.com/obituaries/update/0428/SEB201304280020.html?ref=rss</link>  
+    <description><![CDATA[<p>　</p>]]></description>  
+    <dc:subject>おくやみ</dc:subject>  
+    <dc:date>2013-04-28T20:38:36+09:00</dc:date> 
+  </item> 
+</rdf:RDF>
